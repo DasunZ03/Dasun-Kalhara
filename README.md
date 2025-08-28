@@ -4,13 +4,13 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/dasunkalhara">
+  <a href="https://github.com/DasunZ03">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:dkalhara457@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://www.linkedin.com/in/your-link">
+  <a href="https://www.linkedin.com/in/dasun-kalhara-0242b9314">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
