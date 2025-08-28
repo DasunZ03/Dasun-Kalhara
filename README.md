@@ -46,11 +46,11 @@
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://github.com/dasunkalhara"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
-  <a href="https://linkedin.com/in/your-link"><img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png"/></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png"/></a>
+  <a href="https://github.com/DasunZ03"><img src="https://img.icons8.com/ios-filled/50/000000/github.png"/></a>
+  <a href="https://www.linkedin.com/in/dasun-kalhara-0242b9314"><img src="https://img.icons8.com/ios-filled/50/0A66C2/linkedin.png"/></a>
+  <a href="mailto:dkalhara457@gmail.com"><img src="https://img.icons8.com/ios-filled/50/EA4335/gmail.png"/></a>
 </p>
 
 ---
 
-⭐️ From [Dasun Kalhara](https://github.com/dasunkalhara)
+⭐️ From [Dasun Kalhara](https://github.com/DasunZ03)
